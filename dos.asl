@@ -1,7 +1,7 @@
 
 state("EoCApp")
 {
-	byte Time: 0x12C6AC4;
+	float Time: 0x12C6AC4;
 }
 
 isLoading
